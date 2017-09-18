@@ -1,0 +1,382 @@
+
+
+/*
+Author: XpeedStudio
+Author URI: http://themeforest.net/user/XpeedStudio/portfolio
+*/
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+        font-size: 15px;
+    }
+
+    .dem2{
+    padding-left: 400px;
+    left: 60px;}
+
+    .donategrn{
+    position: absolute;
+    padding-top: 400px;
+    padding-right: 150px;
+    margin-left: -15px;
+}
+.paypal-me{
+    margin-top: 170%;
+    margin-left: -190%;
+    font-size: 13px;
+}
+
+	
+    
+
+}
+
+/* Portrait tablets and small desktops */
+@media  (max-width: 991px) {
+    html {
+        font-size: 90%;
+    }
+        .donategrn{
+    position: absolute;
+    padding-top: 400px;
+    margin-left: 300px;
+    margin-top: 320px;
+}
+
+.sections2 {
+    padding-bottom:550px;
+}
+
+.paypal991{
+	left: -140px;
+    top: 1px;
+}
+.transl991{
+	left: 160px;
+    top: -1px;
+}
+.paypal-me{
+    margin-top: 120%;
+    margin-left: 170px;
+    font-size: 13px;
+}
+.sectionspyl {
+    padding-top:120px;
+    padding-bottom: 200px;
+    margin-bottom: 0%;
+}
+
+.paypalgreeat{
+    margin-top: 17%;
+    padding-left: 0;
+    margin-right: 22%;
+}
+.paypalgreeattex{
+    top: 56px;
+    margin-left: 6%;
+    padding: 16px;
+    height: 338px;
+    width: 39em;
+    left: -6%;
+}
+.imgpaygn{
+    width: 100px;
+    height: 100px;
+    left: 233px;
+}
+.paypal-btng{
+    left: 36%;
+}
+.zeeleshelpme{
+    font-size: 12px;
+}
+.zeelesname{
+    font-size: 70px;
+}
+.paypalgrtext{
+    top: 40%;
+    left: 27%;
+}
+.paypalgrtext1{
+    top: 50%;
+    left: 9%;
+    margin-right: 224px;
+}
+.texttitle1{
+    font-size: 24px;
+}
+.texttitle2{
+    font-size: 15px;
+}
+
+
+}
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+    html {
+        font-size: 80%;
+    }
+    .donategrn{
+    position: absolute;
+    padding-top: 400px;
+    padding-right: 150px;
+    margin-left: 230px;
+}
+
+    .dem2{
+    padding-left: 450px;
+    left: 60px;}
+}
+	.navbar-default {
+    background: red; /* For browsers that do not support gradients */    
+    background: -webkit-linear-gradient(left, #b90eb4 , #e67834); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #b90eb4 , #e67834); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #b90eb4 , #e67834); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #b90eb4 , #e67834); /* Standard syntax (must be last) */
+    border: transparent;
+    padding:20px 0;
+	}
+	.navbar-default .navbar-toggle {
+    border-color:none;
+    background: #464646;
+	border:0;
+	}
+	.navbar-default .navbar-toggle:hover {
+		background:#000;
+	}
+	
+	.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+	}
+	
+	homepage-style .unique-apps h2 {
+    font-size: 20px;
+	}
+	.main-history .history-heading {
+    margin: 30px 0;
+    text-align: center;
+	}
+	.homepage-style .unique-apps h2 {
+    font-size: 28px;
+	}
+	.main-history .history-img {
+    text-align: center;
+	}
+	.main-history .history-content .hst-btn{
+	 text-align: center;	
+	}
+	.homepage-style .slider-area {
+    margin-top: 30px;
+	}
+
+	
+	
+   
+}
+
+
+
+/* Landscape phones and smaller */
+@media (max-width: 567px)  {
+    html {
+        font-size: 65%;
+    }
+	
+	.homepage-style .unique-apps h2 {
+    font-size: 20px;
+	}
+	.portfolio .portfolio-item h4 {
+    font-size: 12px;
+	}
+	
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	 background: red; /* For browsers that do not support gradients */    
+   	 background: -webkit-linear-gradient(left, #b90eb4 , #e67834); /* For Safari 5.1 to 6.0 */
+  	 background: -o-linear-gradient(right, #b90eb4 , #e67834); /* For Opera 11.1 to 12.0 */
+   	 background: -moz-linear-gradient(right, #b90eb4 , #e67834); /* For Firefox 3.6 to 15 */
+   	 background: linear-gradient(to right, #b90eb4 , #e67834); /* Standard syntax (must be last) */
+		border:0;
+		z-index: -1
+	}
+	.homepage-style .slider-area {
+    margin-top: 30px;
+	}
+	
+	.supports-content .spt-btn{
+		text-align:center;
+	}
+    .donategrn{
+    position: absolute;
+    padding-top: 400px;
+    padding-right: 140px;
+    margin-left: 230px;
+	}
+	.paypal991 {
+    left: -140px;
+    top: 1px;}
+
+    .demtext{
+    	top: -7px;
+    	left: 270px;
+    	margin: 7px;
+    }
+
+
+}
+
+@media (max-width: 500px) {
+
+	    .donategrn{
+    position: absolute;
+    padding-top: 400px;
+    padding-right: 140px;
+    margin-left: 155px;
+	}
+	.paypal991 {
+    left: -130px;
+    top: 1px;}
+
+    .transl991{
+	left: 150px;
+    top: -1px;
+	}
+
+    .demtext{
+    top: 10px;
+    left: 180px;
+    margin: 3px;
+    font-size: 12px;
+    }
+
+    .demtexten{
+    font-size: 8px;
+    top: 125px;
+    left: 194px;
+    margin: 2px;
+	}
+
+	.dem2{
+     padding-left: 358px;
+    left: 20px;
+	}
+	.dem1{
+    background: url(../images/slidegirl.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    position: absolute;
+    padding: 200px;
+    top: -67px;
+    left: -44px;
+	}
+    .paypal-me{
+    margin-top: 200%;
+    margin-left: 30px;
+    font-size: 13px;
+}
+.sectionspyl {
+    padding-top:120px;
+    padding-bottom:350px;
+    margin-bottom: 10%;
+}
+
+.paypalgreeat {
+    margin-top: 17%;
+    margin-left: 19px;
+    margin-right: 3%;
+}
+.paypalgreeattex{
+    top: 56px;
+    margin-left: 13%;
+    padding: 16px;
+    height: 338px;
+    width: 30em;
+    left: -13%;
+}
+.imgpaygn{
+    width: 100px;
+    height: 100px;
+    left: 233px;
+}
+.paypal-btng{
+    left: 46%;
+}
+.zeeleshelpme{
+    font-size: 12px;
+}
+.zeelesname{
+    font-size: 70px;
+}
+.paypalgrtext{
+    top: 40%;
+    left: 35%;
+}
+.paypalgrtext1{
+    top: 50%;
+    left: 15%;
+    margin-right: 66px;
+}
+.texttitle1{
+    font-size: 24px;
+}
+.texttitle2{
+    font-size: 15px;
+}
+
+}
+
+@media (max-width: 320px) {
+
+
+    html {
+        font-size: 60.5%;
+    }
+	.homepage-style .unique-apps h2 {
+    font-size: 12px;
+	}
+	.heading .title h4 {
+    font-size: 5px;
+	}
+	.portfolio .portfolio-item h4 {
+    font-size: 10px;
+	}
+	.donategrn{
+    padding-top: 400px;
+    padding-right: 150px;
+    margin-left: 230px;
+	}
+	
+}
+
+
+@media (max-width: 359px) {
+	.donategrn{
+    position: absolute;
+    padding-top: 400px;
+    padding-right: 140px;
+    margin-left: 155px;
+	}
+	.paypal991 {
+    left: -130px;
+    top: 1px;}
+
+    .transl991{
+	left: 150px;
+    top: -1px;
+	}
+
+    .demtext{
+    top: -4px;
+    left: 289px;
+    margin: -5px;
+    }
+
+    .demtexten{
+    font-size: 9px;
+    top: 126px;
+    left: 300px;
+    margin: 3px;
+	}
+}
+
+
